@@ -1,0 +1,10 @@
+[
+    {"name": "TLS", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "MIX", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "UAM", "description": "layer 7 - Attack Url [BEST HOLD]", "sts": "ON"},
+    {"name": "BOMB", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "KILL", "description": "layer 7 - Attack Url [BEST METHODS]", "sts": "ON"},
+    {"name": "BYPASS", "description": "layer 7 - Attack Url [BEST METHODS]", "sts": "ON"},
+    {"name": "RAW", "description": "layer 7 - Attack Url [BEST METHODS]", "sts": "ON"},
+    {"name": "BOT", "description": "layer 7 - Attack Url [BEST METHODS]", "sts": "ON"}
+]
